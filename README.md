@@ -61,17 +61,18 @@ Copy code
 ## ⚙️ How to Run Locally
 
 1. Clone this repository:
-```bash
-git clone https://github.com/your-username/cu-cgpa-calculator.git
-Open the project folder:
 
-bash
-Copy code
+git clone https://github.com/your-username/cu-cgpa-calculator.git
+
+2. Open the project folder:
+
 cd cu-cgpa-calculator
-Open index.html in your browser.
+
+3. Open index.html in your browser.
 
 No server or installation required ✅
 
-⚠️ Disclaimer
+##⚠️ Disclaimer
+
 This project is not an official Chandigarh University application.
 It is built for educational and personal use based on publicly available grading policies.
